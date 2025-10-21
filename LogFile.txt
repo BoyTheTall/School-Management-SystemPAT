@@ -1,0 +1,54 @@
+DD/MM/YYYY/HH:MM:SS       Name       Surname  UserID    Username Usertype
+09/07/2019/18:07:45	Josh	Mazibuko	1	Josh	Student
+
+09/07/2019/18:07:12	Josh	Mazibuko	1	Josh	Student
+
+09/07/2019/18:07:29	Josh	Mazibuko	1	Josh	Student
+
+09/07/2019/19:07:57	Josh	Mazibuko	1	Josh	Student
+
+10/07/2019/11:07:53	Josh	Mazibuko	1	Josh	Student
+
+10/07/2019/11:07:13	Josh	Mazibuko	1	Josh	Student
+
+10/07/2019/11:07:02	Josh	Mazibuko	1	Josh	Student
+
+10/07/2019/12:07:55	Josh	Mazibuko	1	Josh	Student
+
+10/07/2019/15:07:36	Simon	Rogers	1	SimonDeOne	Teacher
+
+10/07/2019/15:07:54	Simon	Rogers	1	SimonDeOne	Teacher
+
+10/07/2019/15:07:07	Simon	Rogers	1	SimonDeOne	Teacher
+
+10/07/2019/15:07:54	Simon	Rogers	1	SimonDeOne	Teacher
+
+10/07/2019/15:07:21	Simon	Rogers	1	SimonDeOne	Teacher
+
+10/07/2019/15:07:19	Simon	Rogers	1	SimonDeOne	Teacher
+
+10/07/2019/15:07:47	Simon	Rogers	1	SimonDeOne	Teacher
+
+10/07/2019/15:07:30	Simon	Rogers	1	SimonDeOne	Teacher
+
+15/07/2019/14:07:17	Simon	Rogers	1	SimonDeOne	Teacher
+
+19/07/2019/10:07:58	Josh	Jacobs	1	Josh	Student
+
+19/07/2019/10:07:26	Patrick	Samuels	2	PatrickDeTrick	Student
+
+23/07/2019/09:07:38	Josh	Jacobs	1	Josh	Student
+
+23/07/2019/09:07:12	Josh	Jacobs	1	Josh	Student
+
+23/07/2019/09:07:58	Simon	Rogers	1	SimonDeOne	Teacher
+
+10/08/2019/16:08:18	Admin	Admin	1	Admin	Mark Admin
+
+10/08/2019/16:08:25	Admin	Admin	1	Admin	Mark Admin
+
+14/08/2019/11:08:48	Josh	Jacobs	1	Josh	Student
+
+14/08/2019/12:08:02	Admin	Admin	1	Admin	Mark Admin
+
+14/08/2019/12:08:35	Admin	Admin	1	Admin	Mark Admin

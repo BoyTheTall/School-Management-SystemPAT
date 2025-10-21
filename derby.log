@@ -1,0 +1,27 @@
+Fri Aug 02 12:12:44 CAT 2019 : Apache Derby Network Server - 10.8.1.2 - (1095077) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Fri Aug 02 12:12:45 CAT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-016c-51d1-44c5-ffffa6c09fbb 
+on database directory D:\PAT and IT textbooks\School Management SystemPAT\temporaryDatabase  with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files%20(x86)/glassfish-3.1.2.2/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\Program Files (x86)\glassfish-3.1.2.2\javadb
+derby.system.home=D:\PAT and IT textbooks\School Management SystemPAT
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Aug 02 12:12:54 CAT 2019:
+Shutting down instance a816c00e-016c-51d1-44c5-ffffa6c09fbb on database directory D:\PAT and IT textbooks\School Management SystemPAT\temporaryDatabase with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Fri Aug 02 12:12:54 CAT 2019 Thread[DRDAConnThread_4,5,main] (DATABASE = temporaryDatabase), (DRDAID = {2}), Database 'temporaryDatabase' shutdown.
+----------------------------------------------------------------
+Fri Aug 02 12:18:41 CAT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance 6c44409f-016c-51d1-44c5-ffffa6c09fbb 
+on database directory D:\PAT and IT textbooks\School Management SystemPAT\temporaryDatabase  with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files%20(x86)/glassfish-3.1.2.2/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\Program Files (x86)\glassfish-3.1.2.2\javadb
+derby.system.home=D:\PAT and IT textbooks\School Management SystemPAT
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Aug 02 12:36:44 CAT 2019: Shutting down Derby engine
